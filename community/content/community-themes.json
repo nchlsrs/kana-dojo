@@ -501,10 +501,10 @@
     "secondaryColor": "oklch(78.0% 0.110 25.0 / 1)"
   },
   {
-  "id": "thunder-god",
-  "backgroundColor": "oklch(14.0% 0.058 290.0 / 1)",
-  "mainColor": "oklch(88.0% 0.195 95.0 / 1)",
-  "secondaryColor": "oklch(75.0% 0.180 275.0 / 1)"
+    "id": "thunder-god",
+    "backgroundColor": "oklch(14.0% 0.058 290.0 / 1)",
+    "mainColor": "oklch(88.0% 0.195 95.0 / 1)",
+    "secondaryColor": "oklch(75.0% 0.180 275.0 / 1)"
   },
   {
     "id": "osaka-neon",
@@ -512,7 +512,7 @@
     "mainColor": "oklch(78.0% 0.220 330.0 / 1)",
     "secondaryColor": "oklch(85.0% 0.175 190.0 / 1)"
   },
-   {
+  {
     "id": "dragon-fly",
     "name": "Dragon Fly",
     "description": "Evening mist over still water — a cool, tranquil theme with serene blue undertones",

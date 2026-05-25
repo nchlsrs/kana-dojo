@@ -13,7 +13,9 @@
     "position": "top",
     "text": "> Community note: this page intentionally accepts tiny formatting-safe edits.",
     "issued": true,
-    "completed": false
+    "completed": false,
+    "completedBy": "jtkline1205",
+    "completedPR": 18228
   },
   {
     "id": 3,

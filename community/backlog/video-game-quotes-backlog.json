@@ -116,7 +116,7 @@
     "game": "Pokemon series",
     "character": "Rival characters",
     "id": 12,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -146,7 +146,7 @@
     "game": "Fire Emblem series",
     "character": "Various protagonists",
     "id": 15,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -156,7 +156,7 @@
     "game": "Onimusha series",
     "character": "Nobunaga Oda",
     "id": 16,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -206,7 +206,7 @@
     "game": "The Prince of Tennis: Sweat & Tears 2",
     "character": "Ryoma Echizen",
     "id": 21,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -276,7 +276,7 @@
     "game": "Kingdom Hearts series (JP dub)",
     "character": "Sora",
     "id": 28,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -286,7 +286,7 @@
     "game": "Street Fighter series",
     "character": "Ryu",
     "id": 29,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -316,7 +316,7 @@
     "game": "Pokemon series",
     "character": "Rival characters",
     "id": 32,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -366,7 +366,7 @@
     "game": "Persona 5 Strikers",
     "character": "Joker",
     "id": 37,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -376,7 +376,7 @@
     "game": "The Legend of Zelda: Breath of the Wild (JP)",
     "character": "Revali",
     "id": 38,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -436,7 +436,7 @@
     "game": "Steins;Gate: My Darling's Embrace",
     "character": "Rintaro Okabe",
     "id": 44,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -996,7 +996,7 @@
     "game": "Samurai game proverb line",
     "character": "Musashi reference",
     "id": 100,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
