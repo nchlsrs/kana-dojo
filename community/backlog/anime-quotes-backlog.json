@@ -156,7 +156,7 @@
     "english": "But... that's what I like.",
     "anime": "JoJo's Bizarre Adventure: Diamond is Unbreakable",
     "character": "Yoshikage Kira",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -246,7 +246,7 @@
     "english": "I am Gundam!",
     "anime": "Mobile Suit Gundam 00",
     "character": "Setsuna F. Seiei",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -916,7 +916,7 @@
     "english": "All I want is to live a normal life. (alt wording 40)",
     "anime": "Chainsaw Man",
     "character": "Denji",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
