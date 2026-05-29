@@ -62,13 +62,13 @@
   {
     "id": 11,
     "fact": "Japan's postal system has a special service where you can mail a letter to your future self, and they'll deliver it years later on the date you specify.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
     "id": 12,
     "fact": "The word 'bakku-shan' (バックシャン) describes someone who looks attractive from behind but not from the front - a uniquely specific observation.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -140,13 +140,13 @@
   {
     "id": 24,
     "fact": "The Japanese word 'natsukashii' (懐かしい) describes nostalgic longing that's bittersweet rather than sad - missing something while appreciating the memory.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
     "id": 25,
     "fact": "Japan has a museum dedicated to instant ramen in Osaka where visitors can create their own custom Cup Noodles flavor combinations.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -188,13 +188,13 @@
   {
     "id": 32,
     "fact": "The practice of 'nemawashi' (根回し) means building consensus before a meeting so decisions appear unanimous - the actual negotiation happens beforehand.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
     "id": 33,
     "fact": "Japanese toilet seats often have built-in bidets with heated seats, air dryers, and sound effects to mask embarrassing noises.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -242,7 +242,7 @@
   {
     "id": 41,
     "fact": "The Japanese word 'yūgen' (幽玄) describes a profound awareness of the universe that triggers emotional responses too deep for words.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -266,7 +266,7 @@
   {
     "id": 45,
     "fact": "The Japanese word 'mono no aware' (物の哀れ) describes the bittersweetness of passing time and the gentle sadness of things.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -398,13 +398,13 @@
   {
     "id": 67,
     "fact": "There's a Japanese practice called 'kuuki wo yomu' (空気を読む) - reading the air - understanding unspoken social cues.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
     "id": 68,
     "fact": "Japan pioneered the concept of 'mukbang' content but calls it 'tabehoudai' (food challenge) which predates Korean streaming.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -416,7 +416,7 @@
   {
     "id": 70,
     "fact": "Japan has a shrine where you can pray for better Wi-Fi signal - the Kanda Myojin Shrine in Tokyo blesses electronics.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -500,13 +500,13 @@
   {
     "id": 84,
     "fact": "Japan has 'crying rooms' in some theaters where parents can watch movies with babies without disturbing other viewers.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
     "id": 85,
     "fact": "The word 'otsukaresama' (お疲れ様) literally means 'you're tired' but is used to acknowledge someone's hard work.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -530,13 +530,13 @@
   {
     "id": 89,
     "fact": "The concept of 'kawaisa' (可愛さ) or cuteness is so culturally important that it influences everything from government mascots to warning signs.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
     "id": 90,
     "fact": "Japan has vending machines that sell used schoolgirl uniforms - though this practice is now heavily regulated in most areas.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -704,7 +704,7 @@
   {
     "id": 118,
     "fact": "Japan has 'cuddle therapy' clinics where you can pay to be held, spooned, or simply have physical human contact.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -746,7 +746,7 @@
   {
     "id": 125,
     "fact": "The word 'yoroshiku' (よろしく) has no direct translation - it's used for introductions, requests, and meaning 'please treat me well'.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -896,7 +896,7 @@
   {
     "id": 150,
     "fact": "Japan has 'gravure idols' - models who pose in bikinis and lingerie for magazines, calendars, and trading cards.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -926,7 +926,7 @@
   {
     "id": 155,
     "fact": "There's a Japanese concept 'uchi-soto' (内外) - inside/outside - defining who you're close to versus everyone else.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -938,7 +938,7 @@
   {
     "id": 157,
     "fact": "The word 'oshaberi' (おしゃべり) means chatting - but specifically light, fun conversation without anything heavy.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1178,7 +1178,7 @@
   {
     "id": 197,
     "fact": "The concept 'sessha' (拙者) is an extremely humble way to say 'I' - originally used by samurai to show modesty.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1202,7 +1202,7 @@
   {
     "id": 201,
     "fact": "Japan has a word 'tsundoku' (積ん読) for buying books and letting them pile up unread.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1226,7 +1226,7 @@
   {
     "id": 205,
     "fact": "Japan has 'eki-stamps' (駅スタンプ) — collectible rubber stamps at train stations that travelers gather like a passport.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1256,7 +1256,7 @@
   {
     "id": 210,
     "fact": "Japan’s 'kotatsu' is a low table with a heater underneath and a blanket, creating a cozy heated nook in winter.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1286,7 +1286,7 @@
   {
     "id": 215,
     "fact": "Japan’s rail system is so punctual that many train companies issue delay certificates ('chien shoumeisho') for commuters.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1334,13 +1334,13 @@
   {
     "id": 223,
     "fact": "Japan’s 'onsen' hot springs often have specific etiquette, including washing thoroughly before entering the bath.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
     "id": 224,
     "fact": "The Japanese word 'mijikai' (短い) means short, but 'mijikai hanashi' can refer to a concise story — valued in polite conversation.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1376,7 +1376,7 @@
   {
     "id": 230,
     "fact": "The Japanese word 'nagori' (名残) describes the lingering feeling when a season is ending — like the last strawberries of spring.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1406,7 +1406,7 @@
   {
     "id": 235,
     "fact": "Japan’s 'ekiben' (駅弁) are region-specific boxed lunches sold at train stations, often showcasing local ingredients and specialties.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1430,7 +1430,7 @@
   {
     "id": 239,
     "fact": "Japanese rail stations often have melodic 'departure jingles' tailored to the neighborhood, making each station instantly recognizable.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1574,7 +1574,7 @@
   {
     "id": 263,
     "fact": "Japan has 'chiiki matsuri' — neighborhood festivals run by local committees where residents carry portable shrines together.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1598,13 +1598,13 @@
   {
     "id": 267,
     "fact": "Japan’s 'hitokoto omikuji' are single-phrase fortune slips meant for quick inspiration or encouragement.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
     "id": 268,
     "fact": "The word 'komachi' (小町) is used in place names to reference elegance, inspired by the legendary beauty Ono no Komachi.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1658,7 +1658,7 @@
   {
     "id": 277,
     "fact": "Japan’s 'pocket tissues' are commonly handed out on streets as tiny promotional giveaways for shops or services.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1688,7 +1688,7 @@
   {
     "id": 282,
     "fact": "The word 'utsuroi' (移ろい) describes subtle transitions, like shifting seasons or fading light.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1712,7 +1712,7 @@
   {
     "id": 286,
     "fact": "The phrase 'osusowake' (お裾分け) means sharing a portion of something received, like produce or gifts.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1880,7 +1880,7 @@
   {
     "id": 314,
     "fact": "'Wabi-sabi' is the appreciation of beauty in imperfection and the natural aging of materials.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1916,7 +1916,7 @@
   {
     "id": 320,
     "fact": "'Mame' (豆) can mean both \"bean\" and \"diligent\"—so bean-related gifts sometimes imply good health and hard work.",
-    "issued": false,
+    "issued": true,
     "completed": false
   }
 ]
